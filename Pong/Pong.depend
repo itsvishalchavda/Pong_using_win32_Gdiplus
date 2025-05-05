@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1686396894 source:c:\users\admin\documents\codeblocks\pong\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<stdio.h>
+	<objidl.h>
+	<gdiplus.h>
+
